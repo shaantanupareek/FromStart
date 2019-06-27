@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("\nTest Hello day1\n");
+printf("\nGood Morning 27th June\n");
 return 0;
 }
