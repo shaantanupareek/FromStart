@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("\nGood Morning 27th June\n");
+printf("\nPush changes in new branch\n");
 return 0;
 }
